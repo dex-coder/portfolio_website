@@ -8,11 +8,11 @@ const Hero = (props) => (
   <Section row nopadding>
 <LeftSection>
   <SectionTitle main center>
-    Welcome To <br />
-    My Personal Portfolio
+    Hello <br />
+    I'm Dex Coder
   </SectionTitle>
   <SectionText>
-  The purpose of Dex Coder is to help aspiring and established developers to take their development skills to the next level and build awesome apps.
+  Front End Developer based in Karachi. I specialise in creating interactive experiences and functional interfaces using React, Redux. 
   </SectionText>
   <Button onClick={() => window.location = 'https://www.linkedin.com/in/mkashif07/'}>Hire Me</Button>
 </LeftSection>
